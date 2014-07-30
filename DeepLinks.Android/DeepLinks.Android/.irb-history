@@ -1,0 +1,9 @@
+start_test_server_in_background
+query("*")
+quit
+start_test_server_in_background
+quit
+start_test_server_in_background
+start_test_server_in_background
+start_test_server_in_background
+quit
