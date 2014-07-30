@@ -1,4 +1,4 @@
-XTCDeepLinkExample
+Testing Deep Links in Xamarin Test Cloud
 ==================
 
 An example of how to test deep linking on Android using Xamarin Test Cloud.
